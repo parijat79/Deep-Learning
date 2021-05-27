@@ -1,0 +1,8 @@
+https://s3.amazonaws.com/thinkific-import/153034/rI58TOlAScioEuPBbOYh_NEWS2012TrainingEnHi13937-1563719470862.xml
+
+
+https://s3.amazonaws.com/thinkific-import/153034/njThAK0RQGeoOuE9rfwg_NEWS2012RefEnHi1000-1563719263404.xml
+
+-------------
+name2lang.txt
+https://s3.amazonaws.com/thinkific-import/153034/7AjnRN9QQASkfTNWYCA2_name2lang-1562395440878.txt
